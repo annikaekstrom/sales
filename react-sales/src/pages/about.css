@@ -1,0 +1,22 @@
+.about-container {
+  width: 100%;
+  height:auto;
+  background-color: #d2b5ac;
+  display: flex;
+  flex-direction: column;
+}
+#headline {
+  font-size: 40px;
+}
+img#profile {
+  width: 40%;
+  border: 0;
+
+  margin: 5vw;
+}
+
+.about-text {
+  width: 400px;
+  margin-left: 50vw;
+  margin-top: -16vw;
+}
