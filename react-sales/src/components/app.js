@@ -1,6 +1,6 @@
 import React from "react"
 import Home from "pages/home"
-import { BrowserRouter, Route } from "react-router-dom"
+import { HashRouter, Route } from "react-router-dom"
 import Navigation from "./navigation"
 import Picturespreview from "./../pages/picturespreview"
 import Footer from "./footer"
@@ -10,7 +10,7 @@ class App extends React.Component {
 
   render() {
     return (
-      <BrowserRouter>
+      <HashRouter>
         <div>
           <Navigation />
           <Route exact path="/" component={Home} />
@@ -19,7 +19,7 @@ class App extends React.Component {
           <Footer />
 
         </div>
-      </BrowserRouter>
+      </HashRouter>
     )
   }
 
