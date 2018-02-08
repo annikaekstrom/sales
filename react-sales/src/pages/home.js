@@ -39,7 +39,7 @@ class Home extends React.Component {
           </div>
 
           <div className="container text">
-            <h4>"Who gets teh most balls" is one of the sales competitions
+            <h4>"Who gets the most balls" is one of the sales competitions
             we had before the championships in Rio. My team got so motivated
           and kicked 100 balls into the goal.</h4>
           </div>

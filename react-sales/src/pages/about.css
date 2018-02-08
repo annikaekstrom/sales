@@ -20,3 +20,11 @@ img#profile {
   margin-left: 50vw;
   margin-top: -16vw;
 }
+
+@media (max-width: 700px) {
+  .about-text {
+    width: 100%;
+    margin-left: 0;
+    margin-top: 0;
+  }
+}

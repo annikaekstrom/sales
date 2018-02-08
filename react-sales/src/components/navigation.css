@@ -41,8 +41,6 @@ a:hover {
   display: block;
   cursor: pointer;
   padding-top: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
 }
 
 /* .navwrapper {
@@ -65,6 +63,7 @@ a:hover {
   background-color: #e9e0e0;
   margin: 6px 0;
   transition: 0.4s;
+  margin-left: 10px;
 }
 
 .menu {
@@ -95,7 +94,7 @@ ul {
 }
 
 .hamburger-checkbox:checked + .menu {
-  left: 50px;
+  left: 30px;
   margin-left:-60px;
   height: 400px;
   z-index: 1;

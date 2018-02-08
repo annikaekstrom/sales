@@ -4,10 +4,5 @@
   background: #2e2b2b;
   color: #e9e0e0;
   display: flex;
-  justify-content: center;
-  padding: 40px;
-}
-
-#footer {
-  padding-left: 50px;
+  justify-content: space-around;
 }

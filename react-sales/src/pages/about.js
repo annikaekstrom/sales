@@ -24,7 +24,7 @@ class About extends React.Component {
               Take part of my ideas and how i have made playing a part of my team.
               Send my your ideas and let us inspire each other!
             </p>
-            <p>ekstromannika@hotmail.com</p>
+            <p>par.ekstrom@gmail.com</p>
           </div>
       </div>
     )
