@@ -15,6 +15,11 @@ img#profile {
   margin: 5vw;
 }
 
+p {
+  padding: 20px;
+  padding-bottom: 0;
+  padding-top: 0;
+}
 .about-text {
   width: 400px;
   margin-left: 50vw;

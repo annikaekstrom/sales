@@ -22,7 +22,7 @@ class About extends React.Component {
               <p>................</p>
               <p>
               Take part of my ideas and how i have made playing a part of my team.
-              Send my your ideas and let us inspire each other!
+              Send me your ideas and let us inspire each other!
             </p>
             <p>par.ekstrom@gmail.com</p>
           </div>
