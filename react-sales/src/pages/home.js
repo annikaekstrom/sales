@@ -22,9 +22,9 @@ class Home extends React.Component {
         <div className="features">
           <div className="container text">
             <h4>I made this page to share sales comepetitions. Help me to
-            bw inspired and to inspire others. Sales competitons can be so much
+            be inspired and to inspire others. Sales competitons can be so much
           more fun and it is also a way to make your team motivated. <br/>
-          Send me you ideas about sales competitions and help inspire others:</h4>
+          Send me you ideas about sales competitions and help inspire others.</h4>
           </div>
           <div className="container image">
             <img src={guitar} alt="Design" />

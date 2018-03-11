@@ -5,7 +5,7 @@ class Details extends React.Component {
   render() {
     return (
       <div className="projectDescription">
-        <p>{this.props.description}</p>
+        <p id="description">{this.props.description}</p>
         <img id="gallery" src={this.props.projectImage} alt="Design" />
       </div>
     )

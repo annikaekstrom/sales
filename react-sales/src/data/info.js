@@ -7,6 +7,13 @@ import mermaids from "../images/mormaids.PNG"
 import nino from "../images/nino.PNG"
 import present from "../images/present.PNG"
 import riot from "../images/riot.PNG"
+import classes from "../images/classes.JPG"
+import collection from "../images/collection.png"
+import santa from "../images/santa.jpg"
+import shell from "../images/shell.JPG"
+import skiing from "../images/skiing.JPG"
+import tennis from "../images/tennis.JPG"
+import titanic from "../images/titanic.JPG"
 
 export default [
   {
@@ -52,15 +59,57 @@ export default [
     projectImage: nino
   },
   {
+    id: "riot",
+    name: "Riot",
+    description: "Win medals to Rio.",
+    projectImage: riot
+  },
+  {
     id: "present",
     name: "Present",
     description: "Sell more and get presents.",
     projectImage: present
   },
   {
-    id: "riot",
-    name: "Riot",
-    description: "Sell more and get to Rio.",
-    projectImage: riot
+    id: "classes",
+    name: "Classes",
+    description: "Win a trip to Vegas.",
+    projectImage: classes
+  },
+  {
+    id: "collection",
+    name: "Collection",
+    description: "Increasing results with sales competitions.",
+    projectImage: collection
+  },
+  {
+    id: "santa",
+    name: "Santa",
+    description: "Sell and get a present from the Christmas calendar.",
+    projectImage: santa
+  },
+  {
+    id: "shell",
+    name: "Shell",
+    description: "Fill the shell with your color.",
+    projectImage: shell
+  },
+  {
+    id: "skiing",
+    name: "Skiing",
+    description: "Advance to the goal and the team goes skiing.",
+    projectImage: skiing
+  },
+  {
+    id: "tennis",
+    name: "Tennis",
+    description: "Sell and you can hit the ball.",
+    projectImage: tennis
+  },
+  {
+    id: "titanic",
+    name: "Titanic",
+    description: "Every sell helps Titanic.",
+    projectImage: titanic
   }
 ]
