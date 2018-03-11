@@ -1,10 +1,12 @@
 {
-  "main.css": "static/css/main.8a65f2b5.css",
-  "main.css.map": "static/css/main.8a65f2b5.css.map",
-  "main.js": "static/js/main.6d0d2c37.js",
-  "main.js.map": "static/js/main.6d0d2c37.js.map",
+  "main.css": "static/css/main.5834f168.css",
+  "main.css.map": "static/css/main.5834f168.css.map",
+  "main.js": "static/js/main.60e085df.js",
+  "main.js.map": "static/js/main.60e085df.js.map",
   "static\\media\\balls.JPG": "static/media/balls.dcbfba45.JPG",
   "static\\media\\christmas.JPG": "static/media/christmas.008816b8.JPG",
+  "static\\media\\classes.JPG": "static/media/classes.0e02b4e3.JPG",
+  "static\\media\\collection.png": "static/media/collection.dc0d82ce.png",
   "static\\media\\colors.jpg": "static/media/colors.3f5e135b.jpg",
   "static\\media\\game.PNG": "static/media/game.a33bc4e2.PNG",
   "static\\media\\guitar.JPG": "static/media/guitar.902dfd2c.JPG",
@@ -14,6 +16,11 @@
   "static\\media\\nino.PNG": "static/media/nino.01697014.PNG",
   "static\\media\\present.PNG": "static/media/present.68b2bda8.PNG",
   "static\\media\\riot.PNG": "static/media/riot.32d605d0.PNG",
+  "static\\media\\santa.jpg": "static/media/santa.ed0a66de.jpg",
   "static\\media\\schoolbus.PNG": "static/media/schoolbus.4e6d6014.PNG",
-  "static\\media\\snow.JPG": "static/media/snow.6abf366b.JPG"
+  "static\\media\\shell.JPG": "static/media/shell.5399ff5e.JPG",
+  "static\\media\\skiing.JPG": "static/media/skiing.ffb1b3a7.JPG",
+  "static\\media\\snow.JPG": "static/media/snow.6abf366b.JPG",
+  "static\\media\\tennis.JPG": "static/media/tennis.96464dfd.JPG",
+  "static\\media\\titanic.JPG": "static/media/titanic.173b1912.JPG"
 }
