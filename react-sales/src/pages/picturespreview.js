@@ -25,6 +25,7 @@ class Picturespreview extends React.Component {
         {info.map(item => {
           return <Details
             key={item.id}
+            name={item.name}
             description={item.description}
             projectImage={item.projectImage}
             link={item.link} />

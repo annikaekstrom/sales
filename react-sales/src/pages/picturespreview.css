@@ -7,7 +7,7 @@ body {
 .grid-container {
   display: grid;
   grid-template-columns: repeat(4, 21vw);
-  grid-auto-rows: 21vw;
+  grid-auto-rows: 25vw;
   grid-gap: 15px;
   text-align: center;
   background: #2e2b2b;
@@ -15,16 +15,21 @@ body {
   justify-content: center;
 }
 
-#description {
+#name {
   font-size: 15px;
+  color: black;
+  margin: 0;
   margin-top: 5px;
-  margin-bottom: 5px;
+}
+#description {
+  font-size: 10px;
   margin-left: 0;
   margin-right: 0;
+  margin-bottom: 5px;
 }
 img#gallery {
-  width: 79%;
-  height: 79%;
+  width: 50%;
+  height: auto;
   border: 0;
 }
 h2 {
