@@ -43,6 +43,20 @@ img#profile {
     margin-top: 0;
   }
   #abouttext {
-    
+    left: 8%;
+    background-color: #e7d8d8b0;
+    top: 28%;
+    line-height: 1.5em;
+    width: 74%;
+  }
+  #aboutheadline {
+    font-size: 25px;
+    left: 10%;
+  }
+  img#profile {
+    width: 39%;
+    margin-left: 53%;
+    margin-bottom: 108%;
+    margin-top: 17%;
   }
 }
