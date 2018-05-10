@@ -33,9 +33,9 @@ img#gallery {
   border: 0;
 }
 
-img#gallery:hover {
-  animation: scale 1s ease-in-out;
-  -webkit-animation: scale 1s ease-in-out;
+.projectDescription:hover {
+  animation: scale 5s;
+  -webkit-animation: scale 5s;
 }
 h2 {
   background: white;
@@ -81,6 +81,14 @@ h2 {
   grid-row: span 2;
   } */
 
+@keyframes piczoom {
+  0% {
+    width: 100%;
+  }
+  100% {
+    width: 200%;
+  }
+}
 @keyframes scale {
   0% {
     transform: scale(1.0);
