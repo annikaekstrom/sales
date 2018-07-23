@@ -13,7 +13,7 @@ class Home extends React.Component {
       <div className="main" style={{ backgroundImage: `url(${backgrounds})` }}>
         <div className="hero">
           <div className="companyname">
-            <h1>THE ART PART OF SALES <br />
+            <h1>hello THE ART PART OF SALES <br />
               <p id="text">Creative & successful <br /> sales competitions</p>
             </h1>
           </div>
