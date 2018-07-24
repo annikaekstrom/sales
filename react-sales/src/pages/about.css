@@ -22,13 +22,13 @@ img#profile {
   top: 5%;
   position: absolute;
 }
-#abouttext {
+.abouttext {
   position: absolute;
-  left: 14%;
-  padding: 20px;
-  padding-bottom: 0;
+  left: 15%;
+  padding-top: 20px;
   top: 10%;
   width: 40%;
+  font-family: 'Vollkorn', serif;
 }
 .about-text {
   width: 400px;
@@ -42,21 +42,22 @@ img#profile {
     margin-left: 0;
     margin-top: 0;
   }
-  #abouttext {
-    left: 8%;
-    background-color: #e7d8d8b0;
-    top: 28%;
-    line-height: 1.5em;
-    width: 74%;
+  .abouttext {
+    left: 6%;
+    top: 22%;
+    line-height: 1.4em;
+    width: 47%;
   }
   #aboutheadline {
-    font-size: 25px;
-    left: 10%;
+    font-size: 23px;
+    left: 6%;
+    width: 42%;
+    top: 7%;
   }
   img#profile {
     width: 39%;
-    margin-left: 53%;
-    margin-bottom: 108%;
-    margin-top: 17%;
+    margin-left: 53%;;
+    margin-top: 7%;
+    margin-bottom: 142%;
   }
 }

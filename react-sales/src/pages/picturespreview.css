@@ -29,14 +29,19 @@ body {
 }
 img#gallery {
   width: 50%;
-  height: auto;
+  height: 50%;
   border: 0;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  bottom: 20px;
 }
 
-.projectDescription:hover {
+/* .projectDescription:hover {
   animation: scale 5s;
   -webkit-animation: scale 5s;
-}
+} */
 h2 {
   background: white;
   width: 150px;
@@ -66,6 +71,7 @@ h2 {
   background-size: cover;
   border-color: white;
   display: block;
+  position: relative;
 }
 /*
 .projectDetail:hover {
@@ -108,8 +114,11 @@ h2 {
     .grid-container {
       grid-template-columns: repeat(1, 100vw);
       grid-auto-rows: 100vw;
+      grid-gap: 0px;
+      padding-top: 0;
     }
     img#gallery {
-      width: 100%;
+      width: 70%;
+      height: 70%;
     }
   }
